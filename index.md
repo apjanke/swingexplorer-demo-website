@@ -20,11 +20,11 @@ Swing Explorer is an Open Source tool for Swing application developers which is 
 
 ## Download
 
-SwingExplorer is hosted [on GitHub](https://github.com/swingexplorer/swingexplorer-core).
+Swing Explorer is hosted [on GitHub](https://github.com/swingexplorer/swingexplorer-core).
 
 ## License
 
-SwingExplorer is licensed under the [LGPL v3.0](https://www.gnu.org/licenses/lgpl-3.0.en.html).
+Swing Explorer is licensed under the [LGPL v3.0](https://www.gnu.org/licenses/lgpl-3.0.en.html).
 
 ------------
 

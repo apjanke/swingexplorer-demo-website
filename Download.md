@@ -1,7 +1,7 @@
-SwingExplorer Downloads
+Swing Explorer Downloads
 =======================
 
-SwingExplorer is currently in the process of migrating its hosting to GitHub. Releases will soon be available there and on Maven Central.
+Swing Explorer is currently in the process of migrating its hosting to GitHub. Releases will soon be available there and on Maven Central.
 
 ## Download sources
 
@@ -12,11 +12,11 @@ In the mean time, you can find the source code in our GitHub repos:
 
 ## Download releases
 
-Older versions of SwingExplorer can be downloaded below.
+Older versions of Swing Explorer can be downloaded below.
 
 ### SwingExplorer version 1.6.0
 
-* [swexpl.jar](assets/v1.6.0/swexpl.jar) - SwingExplorer UI
+* [swexpl.jar](assets/v1.6.0/swexpl.jar) - Swing Explorer UI
 * [swag.jar](assets/v1.6.0/swag.jar) - Instrumentation agent
 * org-swingexplorer-netbeans.nbm - Swing Explorer plug-in for NetBeans IDE
 * swexpl-eclipse.zip - Swing Explorer plug-in for Eclipse IDE
