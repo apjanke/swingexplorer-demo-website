@@ -25,8 +25,3 @@ Swing Explorer is hosted [on GitHub](https://github.com/swingexplorer/swingexplo
 ## License
 
 Swing Explorer is licensed under the [LGPL v3.0](https://www.gnu.org/licenses/lgpl-3.0.en.html).
-
-------------
-
-
-[Download](Download.html) - [Tips](Tips.html) - [Contact](Contacts.html)

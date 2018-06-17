@@ -1,1 +1,10 @@
 theme: jekyll-theme-slate
+
+title: Swing Explorer
+
+description: A tool for inspecting Java Swing GUI internals
+
+footer-links:
+  github: swingexplorer/swing-explorer-core
+
+permalink: /:year/:month/:day/:title:output_ext

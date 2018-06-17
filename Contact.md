@@ -1,4 +1,4 @@
-Contacts
+Contact
 ==========
 
 The author of Swing Explorer is [Maxim Zakharenkov](https://github.com/maxim-zakharenkov).
