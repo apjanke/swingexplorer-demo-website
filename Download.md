@@ -1,5 +1,5 @@
 Swing Explorer Downloads
-=======================
+========================
 
 Swing Explorer is currently in the process of migrating its hosting to GitHub. Releases will soon be available there and on Maven Central.
 
