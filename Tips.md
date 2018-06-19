@@ -3,7 +3,7 @@ SwingExplorer Tips
 
 ### Parts of the Swing Explorer GUI
 
-![Swing Explorer GUI displayed with parts labeled](images/swing_explorer_sample_with_callouts.jpg)
+![Swing Explorer GUI displayed with parts labeled](images/swing_explorer_sample_with_callouts_transparent.png)
 
 ### Finding source code where a component is added into a container
 
