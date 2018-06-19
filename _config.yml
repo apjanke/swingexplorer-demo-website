@@ -4,6 +4,8 @@ title: Swing Explorer
 
 description: A tool for inspecting Java Swing GUI internals
 
+baseurl: /swingexplorer-demo-website
+
 footer-links:
   github: swingexplorer/swing-explorer-core
 

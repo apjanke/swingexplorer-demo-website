@@ -1,7 +1,7 @@
 SwingExplorer
 =============
 
-Your Swing application looks strange? It's hard to understand why?
+Does your Swing application look strange? Is it hard to understand why?
 
 Try the Swing Explorer tool! Discover your issues and save your time!
 
